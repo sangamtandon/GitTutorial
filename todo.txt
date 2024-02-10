@@ -5,3 +5,4 @@ My TO-DO list
 3. Study books
 4. Do 1 push up
 5. Apply for remote jobs
+6. Practice code.
